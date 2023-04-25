@@ -1,0 +1,23 @@
+.encabezado_imagen {
+    height: 150px;
+    width: 150px;
+}
+
+.logo_imagen {
+    height: 120px;
+    width: 120px;
+}
+
+.galeria_imagenes {
+    height: 100px;
+    width: 100px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.detalle_imagenes {
+    height: 150px;
+    width: 200px;
+}
